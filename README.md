@@ -1,3 +1,6 @@
+# This project is a product of logRockets guide 
+@: https://blog.logrocket.com/create-react-admin-panel/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
